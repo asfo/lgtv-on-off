@@ -23,7 +23,4 @@ You don't, or if you have like 30 mins of time just to mount this and do nothing
 - Express and Body-parse creators
 - LGTV2 dependency creator 
 - Me
-- You, because you used this sh\*t
-
-# More:
-Follow me for more sh\*tty code and sh\*tty projects
+- You, because you used this
